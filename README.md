@@ -6,7 +6,7 @@ PC
 Anaconda - Python 3.7
 ## Algorithm: 
 ## Step 1: 
-### Use a circulate function to solve the problem
+### Use a circulate function to rotate the list
 ## Step 2: 
 ### Assign a list of numbers with a variable
 ## Step 3: 
@@ -30,7 +30,7 @@ def circulate():
 ```
 
 ## Output:
-![Nvalues](Output.png)
+![Nvalues](./Output.png)
 
 ## Result:
 The python program to circulate the n variables using function concept is successfully executed.
